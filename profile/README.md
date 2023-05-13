@@ -6,6 +6,7 @@ Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýs
 
 ### VEFÞ1VG vefgrunnur
 
+- [Guild Wars 2](https://demonemo.github.io/GuildWars/)
 - [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
 - [Bítlarnir](https://demonemo.github.io/beatles/)
 
