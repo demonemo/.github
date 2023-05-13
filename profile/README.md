@@ -6,7 +6,7 @@ Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýs
 
 ### VEFÞ1VG vefgrunnur
 
-- [Micheel Jackson](https://demonemo.github.io/MichaelJackson/)
+- [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
 - [Bítlarnir](https://demonemo.github.io/beatles/)
 
 
