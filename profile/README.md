@@ -1,4 +1,4 @@
-#### VEFÞRÓUN 👋 í vinnslu
+#### 👋 í vinnslu
 
 # Sýnidæmi
 
