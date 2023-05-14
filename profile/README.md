@@ -2,7 +2,7 @@
 
 # Sýnidæmi
 
-Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýsingatæknskólans. 
+Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsingatæknskólans.  
 
 ### VEFÞ1VG vefgrunnur
 
