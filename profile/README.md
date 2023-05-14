@@ -17,7 +17,7 @@ Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýs
 - [Arnar Air](https://demonemo.github.io/Arnarair/)
 - [Donation Company](https://demonemo.github.io/DonationCom/)
 - [AlgoBonus](#)
-- [Seasport]((https://demonemo.github.io/SeaSportTravel/)
+- [Seasport](https://demonemo.github.io/SeaSportTravel/)
 
 ### VEFÞ2VF vefforritun
 
