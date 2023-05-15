@@ -10,6 +10,7 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 - [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
 - [Bítlarnir](https://demonemo.github.io/beatles/)
 - [Leturfræði](https://demonemo.github.io/pangram/)
+- [Tölvuleikir](https://vefgrunnur.github.io/tolvuleikir/iframe.html)
 
 
 ### VEFÞ2VH vefhönnun
