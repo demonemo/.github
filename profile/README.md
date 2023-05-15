@@ -19,6 +19,7 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 - [Donation Company](https://demonemo.github.io/DonationCom/)
 - [AlgoBonus](https://demonemo.github.io/algobonus/)
 - [Seasport](https://demonemo.github.io/SeaSportTravel/)
+- [wizliz](https://tolvubraut.github.io/wizliz/)
 
 ### VEFÞ2VF vefforritun
 
