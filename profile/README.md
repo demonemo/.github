@@ -1,6 +1,4 @@
-#### 👋 í vinnslu
-
-# Sýnidæmi
+# Sýnidæmi 👋
 
 Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsingatæknskólans.  
 
