@@ -23,7 +23,7 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 ### VEFÞ2VF vefforritun
 
-- []()
+- [Kvikmyndaspjallið](http://nemodemo.pythonanywhere.com/)
 
 <!--
 
