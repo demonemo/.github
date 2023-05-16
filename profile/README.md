@@ -15,7 +15,7 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 - [Arnar Air](https://demonemo.github.io/Arnarair/)
 - [Donation Company](https://demonemo.github.io/DonationCom/)
-- [AlgoBonus](https://demonemo.github.io/algobonus/)
+- [AlgoBonus](https://vefhonnun.github.io/algobonus/home.html)
 - [Seasport](https://demonemo.github.io/SeaSportTravel/)
 - [wizliz](https://tolvubraut.github.io/wizliz/)
 
