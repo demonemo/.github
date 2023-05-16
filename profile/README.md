@@ -13,7 +13,7 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 ### 🌈  VEFÞ2VH vefhönnun
 
-- [Mac Retro]()
+- [Mac Retro](https://demonemo.github.io/MacRetro/)
 - [ORV](https://demonemo.github.io/orv/orv.html)
 - [Ring](https://demonemo.github.io/Ring/)
 - [Arnar Air](https://demonemo.github.io/Arnarair/)
