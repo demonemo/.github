@@ -27,6 +27,10 @@ Vor 2023
 - [Donation Company](https://demonemo.github.io/DonationCom/)
 - [AlgoBonus](https://vefhonnun.github.io/algobonus/home.html)
 
+Haust 2023
+
+- [I Am a Rock S&G](https://nemo-demo.github.io/)
+
 ### 👩‍💻 VEFÞ2VF vefforritun
 
 - [Fréttaveitan](http://vfrance.pythonanywhere.com/)
