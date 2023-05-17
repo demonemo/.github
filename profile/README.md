@@ -27,7 +27,7 @@ Vor 2023
 - [Donation Company](https://demonemo.github.io/DonationCom/)
 - [AlgoBonus](https://vefhonnun.github.io/algobonus/home.html)
 
-Haust 2023
+Haust 2022
 
 - [I Am a Rock S&G](https://nemo-demo.github.io/)
 
