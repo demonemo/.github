@@ -6,9 +6,9 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 Vor 2023
 
-- [Guild Wars 2](https://demonemo.github.io/GuildWars/)
-- [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
-- [Bítlarnir](https://demonemo.github.io/beatles/)
+- [Guild Wars 2](vefgrunnur.github.io/synidaemi/lokaverkefni/GuildWars/)
+- [Michael Jackson](vefgrunnur.github.io/synidaemi/lokaverkefni/MichaelJackson/)
+- [Bítlarnir](https://vefgrunnur.github.io/synidaemi/lokaverkefni/beatles/)
 - [Leturfræði](https://demonemo.github.io/pangram/)
 
 Eldri verkefni
