@@ -6,8 +6,8 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 Vor 2023
 
-- [Guild Wars 2](vefgrunnur.github.io/synidaemi/lokaverkefni/GuildWars/)
-- [Michael Jackson](vefgrunnur.github.io/synidaemi/lokaverkefni/MichaelJackson/)
+- [Guild Wars 2](https://vefgrunnur.github.io/synidaemi/lokaverkefni/GuildWars/)
+- [Michael Jackson](https://vefgrunnur.github.io/synidaemi/lokaverkefni/MichaelJackson/)
 - [Bítlarnir](https://vefgrunnur.github.io/synidaemi/lokaverkefni/beatles/)
 - [Leturfræði](https://demonemo.github.io/pangram/)
 
