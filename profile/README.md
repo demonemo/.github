@@ -33,7 +33,6 @@ Haust 2022
 
 ### 👩‍💻 VEFÞ2VF vefforritun
 
-- [Fréttaveitan](http://vfrance.pythonanywhere.com/)
 - [Kvikmyndaspjallið](http://nemodemo.pythonanywhere.com/)
 
 ---
